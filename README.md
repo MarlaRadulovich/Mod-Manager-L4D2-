@@ -7,3 +7,5 @@ Enable/Disable Mods for use in Mod disabled Gamemodes Change Priority of enabled
 **Usage**
 
 Download the latest Release of the Tool from here Move the Tool to your Left 4 Dead 2 Game Folder (the same directory where the left4dead2.exe is located) Now Manage your mods to your liking and apply changes (mods managed by the tool get moved to a folder called usermods)
+
+<img width="726" height="380" alt="image" src="https://github.com/user-attachments/assets/ece5997e-bb3d-4e7b-8d00-8a89c237159e" />
